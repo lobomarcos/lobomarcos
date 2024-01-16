@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lobomarcos
-- 👀 I’m interested in Front-End development.
+- 👀 I’m interested in Development.
 - 🌱 I’m currently learning all things.
 - 💞️ I’m looking to collaborate on my mind.
 - 📫 How to reach me wofeworks@gmail.com
