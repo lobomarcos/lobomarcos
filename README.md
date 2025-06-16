@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @lobomarcos
-- 👀 I’m interested in Development.
-- 🌱 I’m currently learning all things.
-- 💞️ I’m looking to collaborate on my mind.
+- 👋 Hi, I’m @lobomarcos. 
+- 🌱 I’m studying postgraduate studies in Fullstack Development.
 - 📫 How to reach me wofeworks@gmail.com
 
 <!---
