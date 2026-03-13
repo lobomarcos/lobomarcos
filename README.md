@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lobomarcos. 
-- 🌱 I’m studying postgraduate studies in Fullstack Development.
+- 🌱 I’m studying postgraduate studies in Fullstack Development & Data Analytics.
 - 📫 How to reach me wofeworks@gmail.com
 
 <!---
